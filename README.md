@@ -11,4 +11,4 @@ Step :- 3 Solving Queries
 PDIX Link:
 https://drive.google.com/file/d/1vtcdFfeJ4CbiHUioz519kIwdG69kHYfm/view?usp=sharing
 PDF Link:
-[Maven Market.pdf](https://github.com/MuskanSingh-414/Project-2/files/13393144/Maven.Market.pdf)
+https://drive.google.com/file/d/1-SMpI3gJ4Wg1OvCMA5IJ23xHdm33Wcqv/view?usp=sharing
