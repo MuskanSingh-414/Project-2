@@ -6,7 +6,9 @@ This SQL project involves querying a database, likely from a retail or sales con
 Key Highlights:
 Later,the project was divided in 3 steps
 Step :- 1 Creating Maven Market database:- Created the "Maven_Market" database, which included tables for Customers, Products, Regions, Returns, Stores, and Transactions.
+
 Step :- 2 Transfering the Data from Backup file to Maven Market database:- Backed up the database as "Maven_Market_Backup" and performed date column transformations for consistency. The modified data was then transfered into the original database.
+
 Step :- 3 Solving Queries:- Calculating costs, sales figures, and revenue.Analyzing customer demographics and product performance.Segmenting revenue and sales data by region, income, and membership.
 
 PDIX Link:
